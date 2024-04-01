@@ -1,0 +1,6 @@
+D:/6sem/СПЗ/lab1-allocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/6sem/СПЗ/lab1-allocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/6sem/СПЗ/lab1-allocator/cmake-build-debug/src/CMakeFiles/prog.dir
+D:/6sem/СПЗ/lab1-allocator/cmake-build-debug/src/CMakeFiles/run.dir
+D:/6sem/СПЗ/lab1-allocator/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/6sem/СПЗ/lab1-allocator/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
