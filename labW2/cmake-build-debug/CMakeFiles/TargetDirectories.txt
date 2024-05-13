@@ -1,0 +1,3 @@
+D:/6sem/СПЗ/labW2/cmake-build-debug/CMakeFiles/labW2.dir
+D:/6sem/СПЗ/labW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/6sem/СПЗ/labW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
